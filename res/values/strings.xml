@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FC Soundboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    
+	<string name="test">Test</string>
+	
+	<!-- Strings for splashscreen -->
+	<string name="splash_imagedescription">Splash screen image</string>
+	
+	<!-- Strings for activity_boma -->
+	<string name="boma_title">Balthasar Boma</string>
+	<string name="boma_short">Boma</string>
+	<string name="boma_hello">Hallo met Balthasar</string>
+	<string name="boma_crack">Crack on the line</string>
+	
+</resources>

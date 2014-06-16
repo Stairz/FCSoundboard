@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    
+    <color name="fcyellow">#FFB933</color>
+    <color name="fcyellowlight">#F7CE52</color>
+    <color name="fcgreen">#307536</color>
+    <color name="fcgreendark">#41693D</color>
+    
+    
+    <color name="fcgreen2">#4c9d2f</color>
+    <color name="fcgreen4">#26BC4E</color>
+    <color name="fcgreen5">#408740</color>
+    
+</resources>
